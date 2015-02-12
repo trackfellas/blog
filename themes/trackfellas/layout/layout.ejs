@@ -1,0 +1,10 @@
+<%- partial('_partial/head') %>
+<body>
+      <%- partial('_partial/header') %>
+<%- body %>
+
+      <%- partial('_partial/footer', {}, {cache: true}) %>
+    <%- partial('_partial/after-footer') %>
+
+</body>
+</html>
