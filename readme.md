@@ -1,10 +1,12 @@
-#Readme for homepage
+#Readme for blog
 
-This is the readme file for the current homepage. It contains all necessary information to install and serve the current trackfellas.com page.
+This is the readme file for trackfellas blog. It contains all necessary information to install and serve the blog.
 
 ###To Do:
 
-- integrate feed from latest blog posts
+- adjust theme
+- add plugins as necessary
+-integrate previous content
 
 ###File Structure
 
