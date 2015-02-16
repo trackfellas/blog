@@ -1,8 +1,9 @@
 {
-  "name": "hexo-site",
+  "name": "trackfellas-blog",
   "version": "",
   "private": true,
   "dependencies": {
+    "hexo-generator-sitemap": "^0.2.0",
     "hexo-renderer-ejs": "*",
     "hexo-renderer-stylus": "*",
     "hexo-renderer-marked": "*"
