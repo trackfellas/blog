@@ -1,22 +1,27 @@
 # Header
 menu:
   Home: /
-  About: /index.html#about
-  Team: /#team
-  Blog: http://blog.trackfellas.com
-  Sign up: /#signup
-  Get in touch: /#contacts
+  Archives: /archives
 rss: /atom.xml
 
 # Content
-fancybox: false
+excerpt_link: Read More
+fancybox: true
 
 # Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
 
 # Miscellaneous
-google_analytics:
+google_analytics: true
 favicon: /favicon.png
-twitter:
-google_plus:
-fb_admins:
+twitter: '@trackfellas'
+google_plus: 'https://plus.google.com/+trackfellas/'
+fb_admins: 
 fb_app_id:
+post_asset_folder: true
