@@ -3,23 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-email:
-language:
+title: Trackfellas
+subtitle: the platform for travel routes
+description: Trackfellas is the platform to discover, plan, book, document, rate and share travel routes.
+author: trackfellas team
+email: team@trackfellas.com
+language: EN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.trackfellas.com
 root: /
 permalink: :year/:month/:day/:title/
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-permalink_defaults:
 
 # Directory
 source_dir: source
@@ -79,10 +74,16 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: landscape
+theme: trackfellas
 exclude_generator:
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo:
+  
+  
+# Sitemap
+sitemap:
+  path: sitemap.xml
