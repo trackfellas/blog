@@ -4,18 +4,17 @@ This is the readme file for trackfellas blog. It contains all necessary informat
 
 ###To Do:
 
-- adjust theme
-- add plugins as necessary
--integrate previous content
+- adjustment of feed
+- refactoring of some structures
 
 ###File Structure
 
 / root
 contains:
 config.yml - details about the page setup, structure and its deployment.
-structure of the site
-/sources - single pages 
-/scaffolds - currently empty
+
+/source
+contains post folder
 
 
 /themes/trackfellas
@@ -30,3 +29,16 @@ config.yml - theme settings
 
 2.		hexo deploy  (for that step specify git repository. Details are to be found here:
  http://hexo.io/docs/deployment.html)
+
+###Writing a blog post
+
+1. Run
+	hexo new "Title of new post"
+ A new post with asset folder will be created in /source/post
+
+2. Add images and other files to asset folder
+
+3. Add post content in markdown
+ For images:
+ 	{% asset_img filename.jpg %}
+ 
