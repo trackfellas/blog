@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Trackfellas
-subtitle: the platform for travel routes
+title: Footprints
+subtitle: a Trackfellas blog
 description: Trackfellas is the platform to discover, plan, book, document, rate and share travel routes.
-author: trackfellas team
-email: team@trackfellas.com
+author: Trackfellas team
+email: info@trackfellas.com
 language: EN
 
 # URL
@@ -77,6 +77,8 @@ disqus_shortname: TrackfellasAdmin
 theme: trackfellas
 exclude_generator:
 
+# Excerpt
+excerpt_link: Read More
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
