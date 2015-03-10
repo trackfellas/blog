@@ -9,6 +9,42 @@ Install Hexo:
 npm install -g hexo
 ```
 
+## Installation:
+
+```sh
+cd /path/to/your/directory
+npm install
+```
+
+## Access to the website:
+
+```sh
+cd /path/to/your/directory
+hexo server
+# the websiter can then be reached at http://0.0.0.0:4000
+```
+
+## Writing a new blog post
+
+```sh
+cd /path/to/your/directory
+hexo new "Title of new post"
+```
+
+1. A new post with asset folder will be created in `/source/post`
+2. Add images and other files to `/asset` folder
+3. Add post content in markdown. For images: `{% asset_img filename.jpg %}`
+
+### Deployment
+
+```sh
+cd /path/to/your/directory
+npm install
+hexo deploy
+```
+
+See: http://hexo.io/docs/deployment.html for more details
+
 ### Todo:
 
 - [ ] Adjustment of feed
@@ -31,23 +67,4 @@ config.yml - theme settings
 /layouts - layouts and partials
 ```
 
-### Deployment
 
-```sh
-npm install
-hexo deploy
-# _config.yaml is set to publish to gh-pages at https://github.com/trackfellas/blog.git. For further information 
-```
-
-See:
- http://hexo.io/docs/deployment.html)
-
-### Writing a blog post
-
-```sh
-hexo new "Title of new post"
-```
-
-1. A new post with asset folder will be created in `/source/post`
-2. Add images and other files to `/asset` folder
-3. Add post content in markdown. For images: `{% asset_img filename.jpg %}`
