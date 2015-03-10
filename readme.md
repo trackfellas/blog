@@ -1,14 +1,15 @@
-#Readme for blog
+# Readme for blog
 
 This is the readme file for trackfellas blog. It contains all necessary information to install and serve the blog.
 
-###To Do:
+### Todo:
 
-- adjustment of feed
-- refactoring of some structures
+- [ ] Adjustment of feed
+- [ ] Refactoring of some structures
 
-###File Structure
+### File Structure
 
+```
 / root
 contains:
 config.yml - details about the page setup, structure and its deployment.
@@ -16,29 +17,30 @@ config.yml - details about the page setup, structure and its deployment.
 /source
 contains post folder
 
-
 /themes/trackfellas
 contains:
 /sources - images, css, js
 config.yml - theme settings
 /layouts - layouts and partials
+```
 
-###Deployment
+### Deployment
 
-1.		npm install
+```sh
+npm install
+hexo deploy
+# _config.yaml is set to publish to gh-pages at https://github.com/trackfellas/blog.git. For further information 
+```
 
-2.		hexo deploy  (_config.yaml is set to publish to gh-pages at https://github.com/trackfellas/blog.git. For further information see:
+See:
  http://hexo.io/docs/deployment.html)
 
-###Writing a blog post
+### Writing a blog post
 
-1. Run
-		hexo new "Title of new post"
- A new post with asset folder will be created in /source/post
+```sh
+hexo new "Title of new post"
+```
 
-2. Add images and other files to asset folder
-
-3. Add post content in markdown
- For images:
- 		{% asset_img filename.jpg %}
-
+1. A new post with asset folder will be created in `/source/post`
+2. Add images and other files to `/asset` folder
+3. Add post content in markdown. For images: `{% asset_img filename.jpg %}`
