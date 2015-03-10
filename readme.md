@@ -33,12 +33,12 @@ config.yml - theme settings
 ###Writing a blog post
 
 1. Run
-	hexo new "Title of new post"
+		hexo new "Title of new post"
  A new post with asset folder will be created in /source/post
 
 2. Add images and other files to asset folder
 
 3. Add post content in markdown
  For images:
- 	{% asset_img filename.jpg %}
- 
+ 		{% asset_img filename.jpg %}
+
