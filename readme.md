@@ -2,6 +2,13 @@
 
 This is the readme file for trackfellas blog. It contains all necessary information to install and serve the blog.
 
+## Requirements:
+
+Install Hexo:
+```sh
+npm install -g hexo
+```
+
 ### Todo:
 
 - [ ] Adjustment of feed
