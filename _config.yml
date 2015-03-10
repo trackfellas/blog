@@ -82,8 +82,9 @@ excerpt_link: Read More
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repo:
+  type: git
+  repo: https://github.com/trackfellas/blog.git
+  branch: gh-pages
 
 # Sitemap
 sitemap:

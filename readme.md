@@ -27,7 +27,7 @@ config.yml - theme settings
 
 1.		npm install
 
-2.		hexo deploy  (for that step specify git repository. Details are to be found here:
+2.		hexo deploy  (_config.yaml is set to publish to gh-pages at https://github.com/trackfellas/blog.git. For further information see:
  http://hexo.io/docs/deployment.html)
 
 ###Writing a blog post
