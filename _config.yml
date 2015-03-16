@@ -95,8 +95,4 @@ sitemap:
 feed:
   type: atom
   path: atom.xml
-  limit: 20
-
-# JSON API
-
-api_posts_per_page: 3
+  limit: 3
