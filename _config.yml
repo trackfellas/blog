@@ -96,3 +96,12 @@ feed:
   type: atom
   path: atom.xml
   limit: 3
+# Markdown-it config
+## Docs: https://www.npmjs.com/package/hexo-renderer-markdown-it
+markdown:
+  html: true
+  xhtmlOut: false
+  breaks: true
+  linkify: true
+  typographer: true
+  quotes: '“”‘’'
