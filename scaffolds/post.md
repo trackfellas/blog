@@ -3,4 +3,5 @@ date: {{ date }}
 categories:
 tags:
 comments: true
+featured:
 ---
