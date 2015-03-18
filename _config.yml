@@ -84,7 +84,7 @@ excerpt_link: Read More
 deploy:
   type: git
   repo: https://github.com/trackfellas/blog.git
-  branch: gh-pages
+  branch:
 
 # Sitemap
 sitemap:

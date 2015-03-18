@@ -3,6 +3,7 @@ date: 2014-12-14 21:14:26
 tags:
 comments: true
 categories: Travels
+featured: http://blog.trackfellas.com/2014/12/a-trackfella-goes-philippines/Philippines-Trip-2014.jpg
 ---
 As a first entry in this category I want to present you my upcoming travel to the Philippines. I planned the trip taking our last blog about [10 steps to plan your prefect trip](http://blog.trackfellas.com/2014/12/how-to-plan-your-perfect-trip-in-10-steps/) into account. Due to the high season during Christmas and New Years Eve in the Philippines I had to book nearly everything in advance.  As a result of the trip planning I want to show you the planned route and my itinerary.
 
