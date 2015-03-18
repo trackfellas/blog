@@ -11,6 +11,7 @@ tags:
 - travel
 - trip
 comments: true
+featured: http://blog.trackfellas.com/2014/12/how-to-plan-your-perfect-trip-in-10-steps/DSC01587.jpeg
 ---
     	    		            			            	                                                                                            
 {% asset_img DSC01193.jpeg %}

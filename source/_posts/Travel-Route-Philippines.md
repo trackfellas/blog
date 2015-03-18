@@ -9,7 +9,7 @@ tags:
 - Palawan
 - Visayas
 comments: true
-featured:  http://blog.trackfellas.com/img/hero-image.jpg
+featured:  http://blog.trackfellas.com/2015/03/Travel-Route-Philippines/hero-image.jpg
 ---
 
 # Philippines Island Hopping Trip
