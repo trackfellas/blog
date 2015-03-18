@@ -13,11 +13,11 @@ featured:  http://blog.trackfellas.com/img/hero-image.jpg
 ---
 
 # Philippines Island Hopping Trip
-Trackfellas presents you the best travel routes worldwide. Until we can provide you a beta version of [trackfellas.com](http://trackfellas.com), we will feed you with travel routes on our freshly redesigned blog, with all the valuable information for your next trip.
+Trackfellas presents you the best travel routes worldwide. Until we can offer you a beta version of [trackfellas.com](http://trackfellas.com), we will feed you with travel routes on our freshly redesigned blog, with all the valuable information for your next trip.
 
-**We proudly present our first travel route, which brings us to marvelous islands of the Philippines!**
+**We proudly present our first travel route, which brings us to the marvelous islands of the Philippines!**
 
-This blogpost is seperate in 3 parts, general  {% post_link Travel-Route-Philippines Trip Information %}, the {% post_link Travel-Route-Philippines-Palawan Travel Route for Palawan %} and the {% post_link Travel-Route-Philippines-Visayas-Manila Travel Route for the Visayas and Manila %}. Enjoy reading and keep in touch for more travel routes on our blog or follow us on facebook, twitter or google+.  
+This blogpost is separated into 3 parts, general  {% post_link Travel-Route-Philippines Trip Information %}, the {% post_link Travel-Route-Philippines-Palawan Travel Route for Palawan %} and the {% post_link Travel-Route-Philippines-Visayas-Manila Travel Route for the Visayas and Manila %}. Enjoy reading and keep in touch for more travel routes on our blog or follow us on facebook, twitter or google+.  
 
 {% asset_img hero-image.jpg %}  
 Sun, Beach and Island Beauties somewhere in the island world of Palawan, Philippines. 
@@ -43,13 +43,15 @@ Here you find the overview of the travel route and the most important facts incl
 **Safety:** 			4/5 (Pay attention in big cities like Manila)  
 **Number of travelers:**     2 (Couple)  
 **Required travel skills:** 	Easy  
-**Trip suited for travellers:**	with kids; as single woman; as group travel; as young traveler; 
+**Trip suited for travelers:**	with kids; as single woman; as group travel; as young traveler; 
 **Total Costs on-site:** 		1500 - 2000 €   
 **\+ Round flight fare:**		500 - 1000 €  
 
-<div class"left"> {% asset_img cost-distribution.jpg %} </div>
+<div class="left"> 
+{% asset_img cost-distribution.jpg %} 
+</div>
 
-**Accomodation categorie:** 	Middle-class (AC, TV, private bath)  
+**Accommodation category:** 	Middle-class (AC, TV, private bath)  
 **Total distance:** 		2800 km  
 **Main transportation:**		Flight (1600km), Van (580 km),  Boat (300 km), Bus (150 km)   
 **\+ Round flight distance:**	22000 km
@@ -57,18 +59,20 @@ Here you find the overview of the travel route and the most important facts incl
 ### Trip Destination:
 **Country:** 			Philippines, Southeast Asia   
 **Languages:** 			English, Tagalog  
-**Climate:**			Tropical, hot and humid climate, influences by the monsoon  
-**Seasons:**			Rainy season from June - November with high rainfalls and many typhoons coming from the pacific. Dry season from December - March with less rainfall and average temperature around 25°C. Generally there is more rainfall on the pacific coast. Hot and dry season from April - June with much sun and temperature up to 40°C.   
-**Travel period:**			Best travel time is December - March with the least rainfall and comfortable temperatures between february and march; High seasons are december - february, especially between Christmas and New years Eve, during chinese New Year and Eastern, where many hotels in touristic places like Boracay add surcharges from up to 50%.   
-**Visa:**				Visa-on-arrival for 30 days for EU travellers, extendable to 59 days at the bureau of immigration or at Manila Airport for 55€. Valid passport for 6 month necessary.  
+**Climate:**			Tropical, hot and humid climate, influenced by the monsoon  
+**Seasons:**			Rainy season from June - November with strong rainfall and many typhoons coming from the pacific. Dry season from December - March with less rainfall and an average temperature around 25°C. Generally there is more rainfall on the pacific coast. Hot and dry season from April - June with much sun and temperatures up to 40°C.   
+**Travel period:**			Best travel time is December - March with the least rainfall and comfortable temperatures between February and March; High season is from December - February, especially between Christmas and New years Eve, during Chinese New Year and Easter, when many hotels in touristic places like Boracay add surcharges of up to 50%.   
+**Visa:**				Visa-on-arrival for 30 days for EU travelers, extendable to 59 days at the bureau of immigration or at Manila Airport for 55€. Valid passport for 6 month necessary.  
 **Currency conversion:** 	47 PHP = 1 €  
-**Health Care:**			No mandatory vaccination, but vaccination against tetanus, diphtheria, polio, and hepatitis A is important, additionally Hepatitis B and thyphus and malarone as standby-therapy makes sense; In Palawan are no hospitals, beside in Puerto Princessa. Bring along your own firts-aid kit  
-**Travel warnings:**		Dont travel to the unsafe Muslim-dominated southwestern islands and be aware of strong monsoom during the rain season. For further detailed information check travel warnings of your government, for example of the [U.S. Bureau of Consular Affairs](http://travel.state.gov/content/passports/english/alertswarnings/philippines-travel-warning.html) and the [Philippine Weather Service](www.pagasa.dost.gov.ph) for weather warnings of the Philipinnes.
+**Health Care:**			No mandatory vaccination, but vaccination against tetanus, diphtheria, polio, and hepatitis A is important, additionally Hepatitis B and typhus and malarone as standby-therapy makes sense; In Palawan there are no hospitals, besides in Puerto Princessa. Bring along your own first-aid kit  
+**Travel warnings:**		Don’t travel to the unsafe Muslim-dominated southwestern islands and be aware of strong monsoon during the rain season. For further detailed information check travel warnings of your government, for example of the [U.S. Bureau of Consular Affairs](http://travel.state.gov/content/passports/english/alertswarnings/philippines-travel-warning.html) and the [Philippine Weather Service](www.pagasa.dost.gov.ph) for weather warnings for the Philippines.
 
 
 ### Trackfella:
 
-<div class"left"> {% asset_img trackfella-moritz.jpg %} </div>
+<div class="left"> 
+{% asset_img trackfella-moritz.jpg %}
+</div>
 
 **Name:**				Moritz  
 **Gender & Age:** 		Male, 29 
@@ -93,7 +97,7 @@ Here you find the overview of the travel route and the most important facts incl
 07.01.15 / 13:55 - 17:15 	Beijing - Frankfurt International (CA 931)**      
 **Duration:** 			26 hours  
 **Stopover:** 			12 hours (Beijing)  
-**Comment:** Cheap flight, but not the best connection and departure time as you fly during the day and arrive in the middle of the night at Beijing. Possiblity to get a 72-hours Visa-free transit in Beijing; Visited the city center and the forbidded city. You can get cheap there by train and metro. Alternatively you can visit the Great Wall of China within a half day tour from the airport as well. When travelling in winter make sure you have warm clothes as Beijing can become very cold.
+**Comment:** Cheap flight, but not the best connection and departure time as you fly during the day and arrive in the middle of the night to  Beijing. Possibility to get a 72-hour Visa-free transit in Beijing; Visited the city center and the forbidden city. You can get cheap there by train and metro. Alternatively you can visit the Great Wall of China within a half day tour from the airport as well. When travelling in winter make sure you have warm clothes as Beijing can become very cold.
 **Tip:** Taxi trips from the airport can be really expensive, so better count and negotiate twice.
 **Picture:** Blue sky! and freezing cold (-7°C) at the Tiananmen Square and Forbidden City in Beijing.
 {% asset_img beijing.jpg %}
@@ -105,5 +109,5 @@ Here you find the overview of the travel route and the most important facts incl
 **Stopover:** 			2,5 hours (Beijing)   
 **Comment:** Also not the best departure time as we had to leave our hotel already at 4 a.m. and the flight time made the jetlag even worse.
 
-At the next part we will present you the travel route of the Philippines island hopping trip. 
+In the next part we will present you the travel route for the Philippines island hopping trip. 
 Click here for the detailed trip description through {% post_link Travel-Route-Philippines-Palawan Palawan %}, the {% post_link Travel-Route-Philippines-Visayas-Manila Visayas and Manila %}

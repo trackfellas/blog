@@ -22,9 +22,9 @@ Starting from discovering routes of other travelers, to planning your own travel
 
 Eventually we will develop a marketplace for individual trips, where routes and itineraries created by travelers are matched with personalized travel packages crafted by travel agencies.
 
-Until we can provide you a beta version of [trackfellas.com](http://trackfellas.com), we will keep you-up-to-date about Trackfellas, our development and news in our blog. We will also feed you with travel stories, exclusive travel tips and much more that makes you want to grab your backpack.
+Until then we can offer you a beta version of [trackfellas.com](http://trackfellas.com), we will keep you-up-to-date about Trackfellas, our development and news in our blog. We will also feed you with travel stories, exclusive travel tips and much more that makes you want to grab your backpack.
 
-If you want to help us growing, give us some feedback at the comments, sign up for our newsletter and spraid the word.
+If you want to help us grow, give us some feedback in the comments, sign up for our newsletter and spread the word.
 
 See you,
 
