@@ -1,5 +1,6 @@
 title: "Travel Route Philippines: Visayas & Manila"
-date: 2015-03-21 14:18:37
+date: 2015-03-22 14:18:37
+layout: false
 categories: travel route
 tags:
 - travel route
