@@ -2,7 +2,6 @@ title: "Travel Route Philippines"
 date: 2015-03-18 15:51:50
 categories: travel route
 tags: 
-- travel route
 - travel guide
 - Philippines
 - island hopping
@@ -12,7 +11,7 @@ comments: true
 featured:  http://blog.trackfellas.com/2015/03/Travel-Route-Philippines/hero-image.jpg
 ---
 
-# Philippines Island Hopping Trip
+## Philippines Island Hopping Trip
 Trackfellas presents you the best travel routes worldwide. Until we can offer you a beta version of [trackfellas.com](http://trackfellas.com), we will feed you with travel routes on our freshly redesigned blog, with all the valuable information for your next trip.
 
 **We proudly present our first travel route, which brings us to the marvelous islands of the Philippines!**
@@ -31,7 +30,7 @@ Here you find the overview of the travel route and the most important facts incl
 ### Trip Summary: Philippines Island Hopping Trip (4/5)  
 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=zrYZfx3FSo48.k0hvSW6HcMlg" width="1000" height="600"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=zrYZfx3FSo48.k0hvSW6HcMlg"></iframe>
 
 
 **Description:** 		Along the coast to the best beaches and islands of the Philippines  

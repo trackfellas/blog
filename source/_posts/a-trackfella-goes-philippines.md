@@ -10,7 +10,7 @@ As a first entry in this category I want to present you my upcoming travel to t
 **Travel Route**
 
 To visualize my travel route I used Google Maps Engine. The tool allows to create and share maps online. Here is a screen shot of the travel route:
-{% asset_img Philippines-Trip-2014.jpg "Schland" %}
+{% asset_img Philippines-Trip-2014.jpg %}
 
 The usability is quite poor as there is no possibility to create a connected route. 
 <!-- more -->
@@ -19,7 +19,7 @@ Also the result is not very pleasing as it does not show directions or any dates
 
 [Google Maps Engine](https://www.google.com/maps/d/edit?mid=zrYZfx3FSo48.k0hvSW6HcMlg)
 
-{% asset_img Philippines-Trip-2014.jpg "Schland" %}
+{% asset_img Philippines-Trip-2014.jpg %}
 
 Visualizing and planning travel routes is one of the key features we want to achieve with [Trackfellas](http://trackfellas.com/). We will give travellers the possibility to document their trips and share their routes and experiences with other individual travellers in the community.
 
@@ -28,7 +28,7 @@ Visualizing and planning travel routes is one of the key features we want to ach
 I saved my itinerary into an excel file to maintain an overview. It is not really clearly arranged and of course it would make more sense to have it together with my travel route. Nevertheless no convincing travel planning platform exists so far. Until we can offer you an interface to save your itinerary and travel route in one place the current solution must suffice&#8230;
 
 Here you see the preliminary itinerary witch highlights marked in bold:
-{% asset_img Itinerary-Philippines-Trip.png "Schland" %}
+{% asset_img Itinerary-Philippines-Trip.jpg %}
 
  Planning this trip took me around 3 months, so now it is time to reap the tropical fruits of this work.
 
