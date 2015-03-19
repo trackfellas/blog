@@ -30,7 +30,7 @@ Here you find the overview of the travel route and the most important facts incl
 ### Trip Summary: Philippines Island Hopping Trip (4/5)  
 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=zrYZfx3FSo48.k0hvSW6HcMlg" width="1000" height="600"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=zrYZfx3FSo48.k0hvSW6HcMlg"></iframe>
 
 
 **Description:** 		Along the coast to the best beaches and islands of the Philippines  
