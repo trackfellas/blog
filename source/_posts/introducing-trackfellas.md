@@ -11,7 +11,7 @@ Hello World,
 We proudly present you Trackfellas,  a revolutionary community-based platform for travel routes.
 
 {% asset_img logo.png %}
-
+<!-- more -->
 Individual travel is our shared passion. However planning individual trips is a huge hassle. You find nowadays lots of information about certain places, but the biggest problem is to link a chosen destination to a travel route. For that travelers still have to rely on printed guidebooks to plan their best route. Most individual travelers face this problem, either before or during their travels. So far there no solution exists, which allows travelers to upload their own travel route, rate their experiences or find routes of others. Their knowledge remains mainly restricted to their friends or gets buried in one of countless travel blogs.
 
 After planning trips all over the world, Moritz had the idea of building a community-based platform for travel routes. Together with Niklas and Lucas we dug deeper into solving the problem and devised a unified solution for traveler needs.
