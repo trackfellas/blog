@@ -3,6 +3,7 @@ date: 2015-03-18 15:51:50
 categories: travel route
 tags: 
 - travel guide
+- trip inspiration
 - Philippines
 - island hopping
 - Palawan
@@ -20,12 +21,12 @@ This blogpost is separated into 3 parts, general  {% post_link Travel-Route-Phil
 
 {% asset_img hero-image.jpg %}  
 Sun, Beach and Island Beauties somewhere in the island world of Palawan, Philippines. 
+<!-- more -->
 
 
 ## I. Part: Travel Information
 Here you find the overview of the travel route and the most important facts including ratings in brackets from 1 (horrible) to 5 (awesome) for the described three weeks trip and the Philippines itself.
 
-<!-- more -->
 
 ### Trip Summary: Philippines Island Hopping Trip (4/5)  
 
@@ -64,7 +65,7 @@ Here you find the overview of the travel route and the most important facts incl
 **Visa:**				Visa-on-arrival for 30 days for EU travelers, extendable to 59 days at the bureau of immigration or at Manila Airport for 55€. Valid passport for 6 month necessary.  
 **Currency conversion:** 	47 PHP = 1 €  
 **Health Care:**			No mandatory vaccination, but vaccination against tetanus, diphtheria, polio, and hepatitis A is important, additionally Hepatitis B and typhus and malarone as standby-therapy makes sense; In Palawan there are no hospitals, besides in Puerto Princessa. Bring along your own first-aid kit  
-**Travel warnings:**		Don’t travel to the unsafe Muslim-dominated southwestern islands and be aware of strong monsoon during the rain season. For further detailed information check travel warnings of your government, for example of the [U.S. Bureau of Consular Affairs](http://travel.state.gov/content/passports/english/alertswarnings/philippines-travel-warning.html) and the [Philippine Weather Service](www.pagasa.dost.gov.ph) for weather warnings for the Philippines.
+**Travel warnings:**		Don’t travel to the unsafe Muslim-dominated southwestern islands and be aware of strong monsoon during the rain season. For further detailed information check travel warnings of your government, for example of the [U.S. Bureau of Consular Affairs](http://travel.state.gov/content/passports/english/alertswarnings/philippines-travel-warning.html) and the [Philippine Weather Service](http://www.pagasa.dost.gov.ph) for weather warnings for the Philippines.
 
 
 ### Trackfella:
@@ -84,7 +85,7 @@ Here you find the overview of the travel route and the most important facts incl
 ### Round Trip:
 **Transportation:** 		International flight   
 **Connection:** Frankfurt - Beijing - Manila  
-**Airline:** 			_[Air China](www.airchina.com)_ (3/5)  
+**Airline:** 			_[Air China](http://www.airchina.com)_ (3/5)  
 **Cost for round trip:** 		655 € + 10 € Terminal Fee  
 **Distance:**  			11000 km 
 
@@ -93,9 +94,9 @@ Here you find the overview of the travel route and the most important facts incl
 15.12.14 / 14:05 - 06:15 +1 	Frankfurt International - Beijing (CA 966)   
 16.12.14 / 18:30 - 23:20 	Beijing - Manila Ninoey Aquino (CA 629)  
 07.01.15 / 06:40 - 11:20 	Manila Ninoy Aquino - Beijing (CA 180)  
-07.01.15 / 13:55 - 17:15 	Beijing - Frankfurt International (CA 931)**      
+07.01.15 / 13:55 - 17:15 	Beijing - Frankfurt International (CA 931)      
 **Duration:** 			26 hours  
-**Stopover:** 			12 hours (Beijing)  
+**Stopover:** 			12 hours (Beijing, China)  
 **Comment:** Cheap flight, but not the best connection and departure time as you fly during the day and arrive in the middle of the night to  Beijing. Possibility to get a 72-hour Visa-free transit in Beijing; Visited the city center and the forbidden city. You can get cheap there by train and metro. Alternatively you can visit the Great Wall of China within a half day tour from the airport as well. When travelling in winter make sure you have warm clothes as Beijing can become very cold.
 **Tip:** Taxi trips from the airport can be really expensive, so better count and negotiate twice.
 **Picture:** Blue sky! and freezing cold (-7°C) at the Tiananmen Square and Forbidden City in Beijing.
@@ -105,7 +106,7 @@ Here you find the overview of the travel route and the most important facts incl
 07.01.15 / 06:40 - 11:20 	Manila Ninoy Aquino - Beijing (CA 180)  
 07.01.15 / 13:55 - 17:15 	Beijing - Frankfurt International (CA 931)      
 **Duration:** 			17,5 hours  
-**Stopover:** 			2,5 hours (Beijing)   
+**Stopover:** 			2,5 hours (Beijing, China)   
 **Comment:** Also not the best departure time as we had to leave our hotel already at 4 a.m. and the flight time made the jetlag even worse.
 
 In the next part we will present you the travel route for the Philippines island hopping trip. 

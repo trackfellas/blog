@@ -3,29 +3,31 @@ date: 2014-12-12 22:58:34
 categories:
 - Trackfellas
 tags:
+- community
+- travel routes
+- blog
+- concept
 comments: true
-featured: 
+featured: http://blog.trackfellas.com/2015/03/Travel-Route-Philippines/logo.jpg
 ---
 Hello World,
 
-We proudly present you Trackfellas,  a revolutionary community-based platform for travel routes.
+We proudly present you [Trackfellas.com](http://trackfellas.com), a community to unite the knowledge of travelers. We give you a platform to share your individual travel routes. 
+{% asset_img logo.jpg %}
 
-{% asset_img logo.png %}
 <!-- more -->
-Individual travel is our shared passion. However planning individual trips is a huge hassle. You find nowadays lots of information about certain places, but the biggest problem is to link a chosen destination to a travel route. For that travelers still have to rely on printed guidebooks to plan their best route. Most individual travelers face this problem, either before or during their travels. So far there no solution exists, which allows travelers to upload their own travel route, rate their experiences or find routes of others. Their knowledge remains mainly restricted to their friends or gets buried in one of countless travel blogs.
 
-After planning trips all over the world, Moritz had the idea of building a community-based platform for travel routes. Together with Niklas and Lucas we dug deeper into solving the problem and devised a unified solution for traveler needs.
+Individual travel is our shared passion. However planning individual trips is a huge hassle. You find nowadays tons of information about places of interests, but nobody tells how to get there, where to go next or if it is even worth it undertaking the journey to get there. The world offers endless interesting place to discover and it is a really big effort to link chosen destinations to a travel route. For that travelers still have to rely mainly on printed guidebooks to plan their best route. Most individual travelers face this problem, either before or during their travels. Finally every individual traveller covered his own personal travel route with its unique experiences. However the knowledge for each one of these special trip remains mainly restricted to friends or gets buried in one of countless travel blogs. We will offer with Trackfellas a holistic solution, which allows travelers to document their own travel routes, rate their experiences or find routes of like-minded travelers. 
 
+After planning trips all over the world, Moritz had the idea of building a community-based platform for travel routes. Together with Niklas and Lucas we dug deeper into solving the problem and devised a unified solution for traveler needs. Our team joined recently Nika, our creative mind and globetrotter and our irish iOS developer Matt.
 
-{% asset_img IMG_5402.jpg %}
+{% asset_img team-trackfellas.jpg %}
 
-Starting from discovering routes of other travelers, to planning your own travel route on a map, booking certain parts of your journey, documenting your trip, rating your experiences and sharing it on social media and within the community, Trackfellas offers everything you need in one place. Now comes the best thing, we will offer all that as a free service with perfect usability.
+Starting from discovering routes of other travelers, to planning your own travel route on a map, booking certain parts of your journey, documenting your trip, rating your experiences and sharing it on social media and within the community, Trackfellas offers everything you need in one place. A trip not only includes the itinerary and the mode of transportation, it can also include activities, recommendations and other useful information. All this is visualized on a map. A route requires only a few details but can be made as complex as one chooses it to be. Now comes the best thing for you, we will offer all that as a free service with best usability that makes you wnt to grab your backpack.
 
-Eventually we will develop a marketplace for individual trips, where routes and itineraries created by travelers are matched with personalized travel packages crafted by travel agencies.
+Until then we can offer you a beta version of [trackfellas.com](http://trackfellas.com), we will keep you-up-to-date about Trackfellas, our development and news in our blog. We will also feed you with travel stories, exclusive travel tips and of course selected travel route for exploring the world as intensive at it is!
 
-Until then we can offer you a beta version of [trackfellas.com](http://trackfellas.com), we will keep you-up-to-date about Trackfellas, our development and news in our blog. We will also feed you with travel stories, exclusive travel tips and much more that makes you want to grab your backpack.
-
-If you want to help us grow, give us some feedback in the comments, sign up for our newsletter and spread the word.
+If you want to help us grow, give us some feedback in the comments, sign up for our beta version and spread the word!
 
 See you,
 
