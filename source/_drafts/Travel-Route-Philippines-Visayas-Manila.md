@@ -1,11 +1,14 @@
 title: "Travel Route Philippines: Visayas & Manila"
-date: 2015-03-22 14:18:37
+date: 2015-03-23 14:18:37
 layout: false
 categories: travel route
 tags:
-- travel route
 - travel guide
+- trip inspiration
+- whalesharks
 - Philippines
+- island hopping
+- Cebu
 - Visayas
 - Manila
 comments: true
@@ -15,9 +18,10 @@ featured: http://blog.trackfellas.com/img/whaleshark.img
 
 This is the subsequent blog of the {% post_link Travel-Route-Philippines Philippines Island Hopping Trip %}, with the previous part: {% post_link Travel-Route-Philippines-Palawan Travel Route for Palawan %}
 
-Be excited for whale sharks, typhoons and jeepney rides!
+Be excited for whalesharks, typhoons and jeepney rides!
 
 {% asset_img whaleshark.jpg %}  
+
 <!-- more -->
 
 #### 8. Puerto Princessa, Palawan - Iloilo, Panay - Caticlan, Panay - Boracay, Panay
