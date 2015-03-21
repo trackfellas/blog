@@ -138,7 +138,7 @@ Great stone baked pizza for European prices; Often queue at the evening
 			
 * _[La Salangane](http://www.lasalangane.com)_ (4/5)  
 **Type:** Restaurant  
-Good Burgers (5€), fresh tuna sandwiches (5€) and French Menues (starting with 10€) served on a terrace above the sea come together with rum arrange (1€) and fast WIFI (free)
+Good Burgers (5€), fresh tuna sandwiches (5€) and French Menues (starting with 10€) served on a terrace above the sea come together with rum arrange (1€) and fast WIFI (free)  
 **Tip:**La Salange is also a hotel with nice rooms.
 			
 **Entertainment:**	
