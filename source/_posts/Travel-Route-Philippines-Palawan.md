@@ -1,18 +1,11 @@
 title: "Travel Route Philippines: Palawan"
 date: 2015-03-21 14:53:50
-layout: false
-categories: travel route
+categories:
 tags:
-- travel guide
-- trip inspiration
-- Philippines
-- island hopping
-- Tao Philippines
-- Palawan
-- El Nido
 comments: true
-featured: http://blog.trackfellas.com/img/view-from-matiloc-shrine.jpg
+featured:
 ---
+
 ## II. Part: Trip Route (Palawan)
 
 Here you find the detailed description of the island hopping travel route through the Philippines, starting in Manila to Puerto Princessa. You can of course do the trip the other way around as well, TAO Philippines operates a few times per week in both directions.
