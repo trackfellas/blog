@@ -88,9 +88,9 @@ These links send you to the previous blogpost about the {% post_link Travel-Rout
 **Type:** Restaurant  
 Cheap and authentic Filipino food. Unfortunately the beer boat for Coron sunk at the last taifun a few days ago, thats why they only served apple flavored beer, bah.
 
-<font color='green'>
 
-#### 4. Coron Town, Coron - El Nido, Palawan (5/5)
+
+<font color='green'>#### 4. Coron Town, Coron - El Nido, Palawan (5/5)
 **Type:** 			Tour (_Sailing Paraw Expedition_)  
 **Tour Operator:** _[Tao Philippines](http://www.taophilippines.com)_ (5/5)  
 **Date:**			18.12. - 22.12.14  
@@ -100,11 +100,13 @@ Cheap and authentic Filipino food. Unfortunately the beer boat for Coron sunk at
 (Snorkeling), Patsy Island (1. Night), Evergreen (Snorkeling), Galoc Island (Kayaking), Buluang Village on Culion (2. Night), Buko Island (Beach), Sharon Island (Snorkeling), Ginto Island (3. Night), Kala Kala Island (Beach), Tao Farm in north Palawan (4. Night), Cadlao Island (Lagoon), Helicopter Island (Snorkeling), El Nido  
 **Number of Passengers:**	26
 **Picture:** The Balatik is really spacious and the largest traditional Paraw Sailboat in the Philippines.
-{% asset_img balatik.jpg %}   
+{% asset_img balatik.jpg %}
+
 **Accommodation:**	Single Beach huts or shared cottages on remote islands; The crew is setting up everything for the guests, including beddings, water and mosquito net  
 **Food:**	Fresh fish on the way from fisherman villages, which will be cooked with vegetables and fruits coming from their own organic farms and on the boat. We had 4 days in a row of fresh seafood, which was very delicious, but we were really happy to enjoy an organic Lechon (roasted pork) at our last night at the Tao Farm.   
 **Picture:** Organic Lechon roasted for hours over open fire.
 {% asset_img pig.jpg %}   
+
 **Entertainment:**	You have to buy your drinks (beer and rum) in advance at the Tao 
 office. There is ice on board, so your beer is always cold. At night you will get served a sundowner (rum with pineapple juice) and the rest is up to you. On one night we stayed in a fisherman village with karaoke bar, which was a lot of fun.  
 **Activities:**		Snorkeling at reefs and wrecks, relaxing, swimming, get-together, kayaking to lonely islands, massage  
@@ -112,6 +114,7 @@ office. There is ice on board, so your beer is always cold. At night you will ge
 {% asset_img beach.jpg %}  
 ... and underwater:
 {% asset_img snorkeling.jpg %}  
+
 **Costs:** 			500 € including food, snorkel equipment & accommodation  
 **Comment:** One of the best experiences we had in the Philippines. It is not cheap and not always comfortable, but it is totally worth it. You will visit empty islands, snorkel in untouched reefs and get in contact with local people. The paraw sailboat “Balatik” offers plenty of space and the crew is a cool bunch of locals. The founders of Tao have a really good concept to integrate local people in their business and operate an organic farm in one of their basecamps.  
 **Tip:** Even when your favorite trip dates are full, write them anyway, often there are still places available. Bring seasickness pills, wetbag, extra sunscreen and additional batteries, because there is mostly no electricity.
