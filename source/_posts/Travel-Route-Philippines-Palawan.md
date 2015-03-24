@@ -1,9 +1,16 @@
 title: "Travel Route Philippines: Palawan"
-date: 2015-03-21 14:53:50
-categories:
+date: 2015-03-16 14:53:50
+categories: travel route
 tags:
+- travel guide
+- trip inspiration
+- Tao Philippines
+- Philippines
+- island hopping
+- Palawan
+- El Ndio
 comments: true
-featured:
+featured: view-from-matiloc-shrine.jpg
 ---
 
 ## II. Part: Trip Route (Palawan)
@@ -86,12 +93,10 @@ These links send you to the previous blogpost about the {% post_link Travel-Rout
 
 **Food:**		_Lolo Nonoy’s Food Station_ (4/5)  
 **Type:** Restaurant  
-Cheap and authentic Filipino food. Unfortunately the beer boat for Coron sunk at the last taifun a few days ago, thats why they only served apple flavored beer, bah.
-
-
-
-<font color='green'>#### 4. Coron Town, Coron - El Nido, Palawan (5/5)
-**Type:** 			Tour (_Sailing Paraw Expedition_)  
+Cheap and authentic Filipino food. Unfortunately the beer boat for Coron sunk at the last taifun a few days ago, thats why they only served apple flavored beer, bah.  
+  
+#### <font color='green'> 4. Coron Town, Coron - El Nido, Palawan (5/5)  
+<font color='green'>**Type:** 			Tour (_Sailing Paraw Expedition_)  
 **Tour Operator:** _[Tao Philippines](http://www.taophilippines.com)_ (5/5)  
 **Date:**			18.12. - 22.12.14  
 **Distance:**		220 km  
@@ -102,26 +107,24 @@ Cheap and authentic Filipino food. Unfortunately the beer boat for Coron sunk at
 **Picture:** The Balatik is really spacious and the largest traditional Paraw Sailboat in the Philippines.
 {% asset_img balatik.jpg %}
 
-**Accommodation:**	Single Beach huts or shared cottages on remote islands; The crew is setting up everything for the guests, including beddings, water and mosquito net  
+<font color='green'>**Accommodation:**	Single Beach huts or shared cottages on remote islands; The crew is setting up everything for the guests, including beddings, water and mosquito net  
 **Food:**	Fresh fish on the way from fisherman villages, which will be cooked with vegetables and fruits coming from their own organic farms and on the boat. We had 4 days in a row of fresh seafood, which was very delicious, but we were really happy to enjoy an organic Lechon (roasted pork) at our last night at the Tao Farm.   
 **Picture:** Organic Lechon roasted for hours over open fire.
 {% asset_img pig.jpg %}   
 
-**Entertainment:**	You have to buy your drinks (beer and rum) in advance at the Tao 
-office. There is ice on board, so your beer is always cold. At night you will get served a sundowner (rum with pineapple juice) and the rest is up to you. On one night we stayed in a fisherman village with karaoke bar, which was a lot of fun.  
+<font color='green'>**Entertainment:**	You have to buy your drinks (beer and rum) in advance at the Tao 
+office. There is ice on board, so your beer is always cold. At night you will get served a sundowner (rum with pineapple juice) and the rest is up to you. On one night we stayed in a fisherman village with karaoke bar, which was a lot o fun.  
 **Activities:**		Snorkeling at reefs and wrecks, relaxing, swimming, get-together, kayaking to lonely islands, massage  
 **Picture:** Lonely beaches at the Linapacan Group between Coron and Palawan with crystal clear water and wonderful nature over...
 {% asset_img beach.jpg %}  
-... and underwater:
-{% asset_img snorkeling.jpg %}  
+<font color='green'>... and underwater:{% asset_img snorkeling.jpg %}  
 
 **Costs:** 			500 € including food, snorkel equipment & accommodation  
 **Comment:** One of the best experiences we had in the Philippines. It is not cheap and not always comfortable, but it is totally worth it. You will visit empty islands, snorkel in untouched reefs and get in contact with local people. The paraw sailboat “Balatik” offers plenty of space and the crew is a cool bunch of locals. The founders of Tao have a really good concept to integrate local people in their business and operate an organic farm in one of their basecamps.  
 **Tip:** Even when your favorite trip dates are full, write them anyway, often there are still places available. Bring seasickness pills, wetbag, extra sunscreen and additional batteries, because there is mostly no electricity.
-
+</font>
 <font color='black'>
-
-#### 5. El Nido, Palawan (4/5)
+####  5. El Nido, Palawan (4/5)
 **Type:** 			Town  
 **Date:** 			22.12. - 28.12.14  
 **Comment:** Backpackers hot-spot with laid-back atmosphere; The local beach itself is not very pleasant as it is completely filled with concrete buildings, but the surrounding limestone islands of the Bacuit Archipelago with wonderful beaches are breathtaking; Better book in advance during high season. There is also an airport in El Nido itself, heading from and to Manila. You can only book flights via emailing the airlines (_Island Transvoyager_ and _SeAir_ ) or the _[El Nido Boutique & Art Cafe](http://www.elnidoboutiqueandartcafe.com/TravelCenter.html)_.  
