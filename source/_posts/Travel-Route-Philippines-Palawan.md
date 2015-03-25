@@ -1,5 +1,5 @@
 title: "Travel Route Philippines: Palawan"
-date: 2015-03-16 14:53:50
+date: 2015-03-21 14:53:50
 categories: travel route
 tags:
 - travel guide
