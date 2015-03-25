@@ -10,7 +10,7 @@ tags:
 - Palawan
 - El Ndio
 comments: true
-featured: view-from-matiloc-shrine.jpg
+featured: http://blog.trackfellas.com/2015/03/Travel-Route-Philippines-Palawan/view-from-matiloc-shrine.jpg
 ---
 
 ## II. Part: Trip Route (Palawan)

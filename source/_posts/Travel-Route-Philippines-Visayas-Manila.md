@@ -1,6 +1,5 @@
 title: "Travel Route Philippines: Visayas & Manila"
-date: 2015-03-23 14:18:37
-layout: false
+date: 2015-03-23 14:18:37	
 categories: travel route
 tags:
 - travel guide
@@ -12,7 +11,7 @@ tags:
 - Visayas
 - Manila
 comments: true
-featured: http://blog.trackfellas.com/img/whaleshark.img
+featured: http://blog.trackfellas.com/2015/03/Travel-Route-Philippines-Visayas-Manila/whaleshark.jpg
 ---
 
 ## III. Part: Trip Route (Visayas & Manila)
