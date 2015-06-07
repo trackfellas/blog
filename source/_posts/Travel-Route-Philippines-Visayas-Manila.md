@@ -20,7 +20,7 @@ This is the subsequent blog of the {% post_link Travel-Route-Philippines Philipp
 
 Be excited for whale sharks, typhoons and Jeepney rides!
 
-{% asset_img whaleshark.jpg %}  
+{% asset_img whaleshark.jpg whale shark on the philippines%}  
 The Philippines is one of the few places, where you can snorkel and dive with these gentle giants of the sea.
 
 <!-- more -->
@@ -60,7 +60,7 @@ The Philippines is one of the few places, where you can snorkel and dive with th
 **Comment:** Boracay was once an exotic small island with fisherman villages and a 4 km long white beach. The beach remained, but nowadays it turned into a mass tourism place like Kuta on Bali or Ballermann on Mallorca, with hotel bunkers, McDonalds and Starbucks right at the beach and shopping malls, of course! Expect mostly package holiday tourists, interesting enough they are from all over the world, like China, Korea, Japan, Russia, Europe, USA, Australia or South Africa. That’s why you will also find all kinds of international restaurants, but also with European prices! There are many bars and clubs with mostly techno music, but don’t expect beach parties and if there are, like on New years Eve, the area is fenced and you have to pay 10 € entrance. We also didn’t have luck with the weather, but nevertheless I would not recommend people to go there. This is not the real Philippines...  
 **Tip:** You can dive and windsurf on Boracay as well!  
 **Picture:** You are not alone on Boracay island!
-{% asset_img boracay.jpg %}  
+{% asset_img boracay.jpg Boracay%}  
 
 
 **Accommodation:** 	_[Orchids Resort](http://www.orchidsboracay.com/index.htm)_ (2/5)  
@@ -92,7 +92,7 @@ Live music at the beach and cold beer buckets.
 Dancing in the sand to good electronic music, which is really rare on this side of the planet. 
 
 * **Picture:** Party hard at the beach during a typhoon on new years eve.
-{% asset_img newyearseve.jpg %}  
+{% asset_img newyearseve.jpg NYE in Boracay%}  
 
 **Activities:**	
 * _[White Beach Divers](http://whitebeachdivers.com)_ (missed)	  	
@@ -140,7 +140,7 @@ Comment: Due to the bad weather we couldn’t go diving. There is supposed to be
 **Comment:** Of course the airport was totally full of tourists as well. There was a long queue to get inside the airport, due to the bottleneck called x-ray machine. Luckily the plane had 2 hours delay, so we caught our flight, despite our late arrival.   
 **Tip:** To get from the Airport to Cebu Uptown go to the international arrival terminal and take a white taxi (5 €) who are half the price than the yellow cabs from the national arrival!
 **Picture:** Just a normal situation at the overcrowded airports in the Philippines.
-{% asset_img cebu-pacific.jpg %} 
+{% asset_img cebu-pacific.jpg Cebu Airport%} 
 
 
 ### 11. Cebu City, Cebu (3/5)
@@ -164,8 +164,8 @@ Restaurant of Casa Escano; Spanish-Filipino fusion and western food like burgers
 **Type:** Restaurant     
 Modern and best Filipino food we had so far. Try the Boneless Crispy Pata, a roasted pork knuckle for 10 € and enough for 2.  
 **Tip:** In this complex next to the Ayala Mall you find lots of in- and outdoor bars and all kind of international restaurants. 
-**Picture:** The Filiponos love roasted park, so do we :)  
-{% asset_img mesa.jpg %} 
+**Picture:** The Filiponos love roasted pork, so do we :)  
+{% asset_img mesa.jpg Food%} 
 
 <font color='black'>
 
@@ -196,7 +196,7 @@ Many bars and clubs, who fight for every costumer. None of them looked really pl
 **Tip:** Take a big AC-bus, you will feel much more comfortable  
 <font color='black'>
 **Picture:** Anyone needs a ride? Tricycles are the #1 vehicles for local transport. Funnily they look different on every island.  
- {% asset_img tricycles.jpg %} 
+ {% asset_img tricycles.jpg tricycles in Cebu%} 
 
 #### 13. Tan-Awan, Oslob, Cebu (2/5)
 **Type:** 			Village  
@@ -219,9 +219,9 @@ Friendly guitar playing staff is serving fresh fruits and simple food at the bea
 **Comment:** These biggest fish are absolutely fascinating, but unfortunately the local people made a tourist-money-making-machine out of them. They are always around between 7 and noon, because they get feed You get to this place, which is close to the beach by rowing boat. We snorkeled half an hour with around six whale sharks, who come really close to you, so that you have to pay attention not to get hit by their tail fin. Meeting these gentle giants in the wild and not having 30 other tourists around you is probably a much more sublime moment then here.  
 **Tip:** Be there early between 7 and 8 a.m. because during the day the whale sharks disappear, when they are full or there is too much trouble for them. You have a good chance to find whale sharks without feeding in Donsol at East Luzon.  
 **Picture:** Vis-a-vis with a whale shark is a bit scary, but luckily only dangerous for plankton!
-{% asset_img whaleshark-vis-a-vis.jpg %}     
+{% asset_img whaleshark-vis-a-vis.jpg Swimming with a whale sharks%}     
 Tourists lined up as a string of pearls for swimming with the whale sharks is the other side of the medal...  
-{% asset_img tourists-whaleshark.jpg %}  
+{% asset_img tourists-whaleshark.jpg Tourists with a whale shark%}  
 
 * _Boat trip to Sumilon Island_ (3/5)  
 **Type:** Snorkeling, Beach  
@@ -232,7 +232,7 @@ Tourists lined up as a string of pearls for swimming with the whale sharks is th
 **Comment:** You can book a boat ride to Sumilon island. Ask if they can drop you at the reef for snorkeling.   
 **Tip:** There is nothing on the island, beside a nice sandy beach, reefs and an exclusive beach resort. Food and drinks are supposed to be very expensive there (20 €), so better bring your own.
 **Picture:** Sumilon Island as many other reefs between Cebu and Negros are great places for snorkeling and diving in the Philippines.  
-{% asset_img reef.jpg %}  
+{% asset_img reef.jpg Reef Sumilon Island%}  
 
 #### 14. Tan-Awan, Cebu - Liloan, Cebu - Sibulan, Negros - Dumaguete, Negros  
 **Type:** 			Transportation  
@@ -310,7 +310,7 @@ Located at the seafront. Starbucks Filipino style with good coffee, unfortunatel
 **Comment:** Manila does not have a good reputation, but more than any other metropolis in Southeast Asia it is an exciting melting pot of colonial heritage, business city, shopping malls, slum, Chinatown, American fast food restaurants, seafront, 24/7 nightlife and traffic jam.   
 **Tip:** As most travelers will pass by Manila anyway it is worth staying here two to three days and explore the city. We decided to visit Manila at the end of our trip. To get around fast avoid the rush hour from 7 - 9 a.m. and 5 - 8 p.m.
 **Picture:** The normal madness on Manilas streets.
-{% asset_img traffic jam.jpg %}   
+{% asset_img traffic jam.jpg Traffic jam in Manila%}   
 
 **Accommodation:** 	_[Oasis Paco Park Hotel](http://www.oasispark.com)_, Ermita (4/5)  
 **Type:** Hotel  
@@ -325,7 +325,7 @@ Malate (16€ per night for a double room)
 **Comment:** Just jump in any Jeepney and take a ride, but better not during rush hour, else you might get a carbon monoxide poisoning.   
 **Tip:** Jeepneys drive on fixed routes, who are written in front of the windshield or on the side of the Jeepney. If you are not sure you can ask the driver or other passengers to let you  know once you reached your destination.
 **Picture:** Cheap hop-on hop-off tour with a Jeepney. You will just have no clue where you are when getting off.  
-{% asset_img Jeepney.jpg %}    
+{% asset_img Jeepney.jpg Jeepney Manila%}    
 
 <font color='black'>**Food:**	_Zamboanga_, Ermita (4/5)  
 **Type:** Restaurant  
@@ -337,7 +337,7 @@ Try the seafood platter for 10€, which serves two. There are also live folk da
 			**Type:** Bar  
 			Sunset Bar at the 2. floor of the Ocean Park
 **Picture:** The sun goes down over the Bay of Manila, while a father and his son are trying to get a catch in their small canoe. Rich and poor is in Manila just a heartbeat away.  
-{% asset_img manila-bay.jpg %}
+{% asset_img manila-bay.jpg Manila Bay%}
 			
 * _Library Comedy Bar_, Malate (3/5)  
 			**Type:** Comedy Bar  
@@ -373,7 +373,7 @@ Nice and only original church left in Intramuros
 **Cost:** 1,50 €  
 Former Spanish military defense base and heart of the old Manila; Includes as well a museum of the imprisoned and killed national hero Rizal  
 **Picture:** At the reconstructed gate of Fort Santiago in Intramuros.
-{% asset_img intramuros.jpg %} 
+{% asset_img intramuros.jpg Intramuros, Santiago, Manila%} 
 
 __________
 

@@ -19,7 +19,7 @@ Trackfellas presents you the best travel routes worldwide. Until we can offer yo
 
 This blogpost is separated into 3 parts, general  {% post_link Travel-Route-Philippines Trip Information %}, the {% post_link Travel-Route-Philippines-Palawan Travel Route for Palawan %} and the {% post_link Travel-Route-Philippines-Visayas-Manila Travel Route for the Visayas and Manila %}. Enjoy reading and keep in touch for more travel routes on our blog or follow us on facebook, twitter or google+.  
 
-{% asset_img hero-image.jpg %}  
+{% asset_img hero-image.jpg Sun, Beach and Island Beauties somewhere in the island world of Palawan, Philippines%}  
 Sun, Beach and Island Beauties somewhere in the island world of Palawan, Philippines. 
 <!-- more -->
 
@@ -48,7 +48,7 @@ Here you find the overview of the travel route and the most important facts incl
 **\+ Round flight fare:**		500 - 1000 €  
 
 <div class="left"> 
-{% asset_img cost-distribution.jpg %} 
+{% asset_img cost-distribution.jpg Cost distribution%} 
 </div>
 
 **Accommodation category:** 	Middle-class (AC, TV, private bath)  
@@ -71,7 +71,7 @@ Here you find the overview of the travel route and the most important facts incl
 ### Trackfella:
 
 <div class="left"> 
-{% asset_img trackfella-moritz.jpg %}
+{% asset_img trackfella-moritz.jpg Moritz Hubl%}
 </div>
 
 **Name:**				Moritz  
@@ -100,7 +100,7 @@ Here you find the overview of the travel route and the most important facts incl
 **Comment:** Cheap flight, but not the best connection and departure time as you fly during the day and arrive in the middle of the night to  Beijing. Possibility to get a 72-hour Visa-free transit in Beijing; Visited the city center and the forbidden city. You can get cheap there by train and metro. Alternatively you can visit the Great Wall of China within a half day tour from the airport as well. When travelling in winter make sure you have warm clothes as Beijing can become very cold.
 **Tip:** Taxi trips from the airport can be really expensive, so better count and negotiate twice.
 **Picture:** Blue sky! and freezing cold (-7°C) at the Tiananmen Square and Forbidden City in Beijing.
-{% asset_img beijing.jpg %}
+{% asset_img beijing.jpg Beijing%}
 
 #### Outbound flight:		Manila - Frankfurt (3/5)  
 07.01.15 / 06:40 - 11:20 	Manila Ninoy Aquino - Beijing (CA 180)  
