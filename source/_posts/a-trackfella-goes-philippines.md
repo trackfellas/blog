@@ -16,7 +16,7 @@ As a first entry in this category I want to present you my upcoming travel to t
 
 To visualize my travel route I used Google Maps Engine. The tool allows to create and share maps online. Here is a screen shot of the travel route:
 
-{% asset_img Philippines-Trip-2014.jpg %}
+{% asset_img Philippines-Trip-2014.jpg Map of Philippines Trip%}
 
 
 <!-- more -->
@@ -35,7 +35,7 @@ Visualizing and planning travel routes is one of the key features we want to ach
 I saved my itinerary into an excel file to maintain an overview. It is not really clearly arranged and of course it would make more sense to have it together with my travel route. Nevertheless no convincing travel planning platform exists so far. Until we can offer you an interface to save your itinerary and travel route in one place the current solution must suffice&#8230;
 
 Here you see the preliminary itinerary witch highlights marked in bold:
-{% asset_img Itinerary-Philippines-Trip.jpg %}
+{% asset_img Itinerary-Philippines-Trip.jpg Itinerary Philippines%}
 
  Planning this trip took me around 3 months, so now it is time to reap the tropical fruits of this work.
 

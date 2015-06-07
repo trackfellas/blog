@@ -17,7 +17,7 @@ featured: http://blog.trackfellas.com/2015/03/Travel-Route-Philippines-Palawan/v
 
 Here you find the detailed description of the island hopping travel route through the Philippines, starting in Manila to Puerto Princessa. You can of course do the trip the other way around as well, TAO Philippines operates a few times per week in both directions.
 
-{% asset_img view-from-matiloc-shrine.jpg %}
+{% asset_img view-from-matiloc-shrine.jpg Matiloc shrine Palawan%}
 View from the Mantinloc Shrine over El Nido's Bacuit Archipelago. 
  
 <!-- more -->
@@ -44,7 +44,7 @@ These links send you to the previous blogpost about the {% post_link Travel-Rout
 **Type:** Shopping Mall  
 **Comment:** Next door is a Duty Free Mall, where you find literally all kind of western goods, but you will have to struggle your way out again. It might be a nice alternative to the small and pricy airport duty frees, but some articles like alcohol are definately way more expensive then in Europe or even local supermarkets. The only plus is the quite nice food court in there.  
 **Picture:** Unfortunately we couldn't bring our guns...
-{% asset_img firearms.jpg %}
+{% asset_img firearms.jpg No guns%}
 
 #### 2. Manila, Luzon - Busuanga, Coron - Coron Town, Coron
 **Type:** Transportation  
@@ -70,7 +70,7 @@ These links send you to the previous blogpost about the {% post_link Travel-Rout
 **Costs:** 60 € + 4 € Terminal Fee  
 **Comment:** Luckily the flight was also delayed... Cebu Pacific is a low cost airline, so no snacks or drinks are included, extra fee for overweight baggage, free WIFI at most airports  
 **Picture:** Island life we are coming!
-{% asset_img island.jpg %}
+{% asset_img island.jpg Island life%}
 
 
 >**3. Transportation:**	Van from Airport to Coron (4/5)  
@@ -89,7 +89,7 @@ These links send you to the previous blogpost about the {% post_link Travel-Rout
 **Type:** B&B  
 **Cost:** 27 € per night for AC-room with double bed  
 **Picture:** Nice view to the bay from the rooftop
-{% asset_img coron.jpg %}  
+{% asset_img coron.jpg Coron Bay%}  
 
 **Food:**		_Lolo Nonoy’s Food Station_ (4/5)  
 **Type:** Restaurant  
@@ -105,19 +105,19 @@ Cheap and authentic Filipino food. Unfortunately the beer boat for Coron sunk at
 (Snorkeling), Patsy Island (1. Night), Evergreen (Snorkeling), Galoc Island (Kayaking), Buluang Village on Culion (2. Night), Buko Island (Beach), Sharon Island (Snorkeling), Ginto Island (3. Night), Kala Kala Island (Beach), Tao Farm in north Palawan (4. Night), Cadlao Island (Lagoon), Helicopter Island (Snorkeling), El Nido  
 **Number of Passengers:**	26
 **Picture:** The Balatik is really spacious and the largest traditional Paraw Sailboat in the Philippines.
-{% asset_img balatik.jpg %}
+{% asset_img balatik.jpg Balatik Boat Philippines%}
 
 <font color='green'>**Accommodation:**	Single Beach huts or shared cottages on remote islands; The crew is setting up everything for the guests, including beddings, water and mosquito net  
 **Food:**	Fresh fish on the way from fisherman villages, which will be cooked with vegetables and fruits coming from their own organic farms and on the boat. We had 4 days in a row of fresh seafood, which was very delicious, but we were really happy to enjoy an organic Lechon (roasted pork) at our last night at the Tao Farm.   
 **Picture:** Organic Lechon roasted for hours over open fire.
-{% asset_img pig.jpg %}   
+{% asset_img pig.jpg Roasted Pig%}   
 
 <font color='green'>**Entertainment:**	You have to buy your drinks (beer and rum) in advance at the Tao 
 office. There is ice on board, so your beer is always cold. At night you will get served a sundowner (rum with pineapple juice) and the rest is up to you. On one night we stayed in a fisherman village with karaoke bar, which was a lot o fun.  
 **Activities:**		Snorkeling at reefs and wrecks, relaxing, swimming, get-together, kayaking to lonely islands, massage  
 **Picture:** Lonely beaches at the Linapacan Group between Coron and Palawan with crystal clear water and wonderful nature over...
-{% asset_img beach.jpg %}  
-<font color='green'>... and underwater:{% asset_img snorkeling.jpg %}  
+{% asset_img beach.jpg Beach%}  
+<font color='green'>... and underwater:{% asset_img snorkeling.jpg Snorkeling Philippines%}  
 
 **Costs:** 			500 € including food, snorkel equipment & accommodation  
 **Comment:** One of the best experiences we had in the Philippines. It is not cheap and not always comfortable, but it is totally worth it. You will visit empty islands, snorkel in untouched reefs and get in contact with local people. The paraw sailboat “Balatik” offers plenty of space and the crew is a cool bunch of locals. The founders of Tao have a really good concept to integrate local people in their business and operate an organic farm in one of their basecamps.  
@@ -130,7 +130,7 @@ office. There is ice on board, so your beer is always cold. At night you will ge
 **Comment:** Backpackers hot-spot with laid-back atmosphere; The local beach itself is not very pleasant as it is completely filled with concrete buildings, but the surrounding limestone islands of the Bacuit Archipelago with wonderful beaches are breathtaking; Better book in advance during high season. There is also an airport in El Nido itself, heading from and to Manila. You can only book flights via emailing the airlines (_Island Transvoyager_ and _SeAir_ ) or the _[El Nido Boutique & Art Cafe](http://www.elnidoboutiqueandartcafe.com/TravelCenter.html)_.  
 **Tip:** There is no ATM in El Nido, so bring enough pesos with you. Alternatively you can get cash advance at the El Nido Boutique & Artcafe or try to get cash at the local petrol station with your credit card.
 **Picture:** The nice town El Nido impresses more with its surrounding limestone cliffs then with its concrete beach.
-{% asset_img el-nido.jpg %}
+{% asset_img el-nido.jpg El Nido%}
 
 **Accommodation**: 	_[Inngo Tourist Inn](http://inngotouristinn.com)_ (4/5)  
 **Type:** B&B  
@@ -182,7 +182,7 @@ Bar in the back of El Nido with fireplace, table tennis, dramatic view on one of
 **Comment:** We booked a private boat trip with Midnight Sun to choose the tour itinerary by our own. We had to walk 10 min to the Ca-alan Beach in the North of El Nido, where we started already at 8:00. This way we could enjoy the Hidden Beach all by our own and spend lunch at our private beach :)  
 **Tip:** Bring proper water shoes and be aware that you can badly scratch yourself at Hidden and Secret Beach. We could recongize from peoples injuries, who did Tour C!  
 **Picture:** Waiting for the lunch at our private beach, which we only had to share with our adopted dog Herbert.
-{% asset_img lunch.jpg %}
+{% asset_img lunch.jpg Wiating for Lunch at the beach%}
 
 <font color='black'>
 
@@ -208,7 +208,7 @@ Tip: You can go via zip line to the offshore island nearby.
 **Comment:** It takes 45 min - 1 hour to get there. Drive north and after around 30 min you should find a tree with sign to Nacpan beach pointing to the left. Follow the bumpy sandtrack until the end.   
 **Tip:** Rent a dirt motorbike, not a scooter as some parts are off-road and make sure the light is working and you have the number of the rental company in case of a flat tire, which happened to us.  
 **Picture:** Nacpan Beach is a four km long stretch of white sand beach with a few food stall surrounded by palm trees.
-{% asset_img nacpan-beach.jpg %}
+{% asset_img nacpan-beach.jpg Nacpan Beach is a four km long stretch of white sand beach with a few food stall surrounded by palm trees.%}
 
 #### 6. El Nido, Palawan - Puerto Princessa, Palawan (2/5)
 

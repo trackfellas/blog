@@ -13,7 +13,7 @@ featured: http://blog.trackfellas.com/2015/03/Travel-Route-Philippines/logo.jpg
 Hello World,
 
 We proudly present you [Trackfellas.com](http://trackfellas.com), a community to unite the knowledge of travelers. We give you a platform to share your individual travel routes. 
-{% asset_img logo.jpg %}
+{% asset_img logo.jpg Trackfellas Logo%}
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ Individual travel is our shared passion. However planning individual trips is a 
 
 After planning trips all over the world, Moritz had the idea of building a community-based platform for travel routes. Together with Niklas and Lucas we dug deeper into solving the problem and devised a unified solution for traveler needs. Our team joined recently Nika, our creative mind and globetrotter and our irish iOS developer Matt.
 
-{% asset_img team-trackfellas.jpg %}
+{% asset_img team-trackfellas.jpg The Trackfellas team: Lucas Michot, Moritz Hubl, Niklas Hofmann%}
 
 Starting from discovering routes of other travelers, to planning your own travel route on a map, booking certain parts of your journey, documenting your trip, rating your experiences and sharing it on social media and within the community, Trackfellas offers everything you need in one place. A trip not only includes the itinerary and the mode of transportation, it can also include activities, recommendations and other useful information. All this is visualized on a map. A route requires only a few details but can be made as complex as one chooses it to be. Now comes the best thing for you, we will offer all that as a free service with best usability that makes you wnt to grab your backpack.
 
