@@ -22,6 +22,6 @@ google_analytics: true
 favicon: /favicon.png
 twitter: '@trackfellas'
 google_plus: 'https://plus.google.com/+trackfellas/'
-fb_admins: 
+fb_admins:
 fb_app_id:
 post_asset_folder: true
