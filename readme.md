@@ -6,7 +6,7 @@ This is the readme file for trackfellas blog. It contains all necessary informat
 
 Install Hexo:
 ```sh
-npm install -g hexo
+npm install -g bower gulp hexo-cli
 ```
 
 ## Installation:
@@ -14,6 +14,17 @@ npm install -g hexo
 ```sh
 cd /path/to/your/directory
 npm install
+```
+
+## Refresh code
+
+```sh
+git up
+git checout develop 
+npm install
+bower install
+gulp
+hexo serve
 ```
 
 ## Access to the website:
