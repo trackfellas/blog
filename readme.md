@@ -20,7 +20,7 @@ npm install
 
 ```sh
 git up
-git checout develop 
+git checkout develop 
 npm install
 bower install
 gulp
